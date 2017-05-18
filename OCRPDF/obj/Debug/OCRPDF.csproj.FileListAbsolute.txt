@@ -1,0 +1,9 @@
+C:\Users\Daniel\Desktop\Repos\OCRPDF\OCRPDF\bin\Debug\OCRPDF.exe.config
+C:\Users\Daniel\Desktop\Repos\OCRPDF\OCRPDF\bin\Debug\OCRPDF.exe
+C:\Users\Daniel\Desktop\Repos\OCRPDF\OCRPDF\bin\Debug\OCRPDF.pdb
+C:\Users\Daniel\Desktop\Repos\OCRPDF\OCRPDF\obj\Debug\OCRPDF.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Repos\OCRPDF\OCRPDF\obj\Debug\OCRPDF.Properties.Resources.resources
+C:\Users\Daniel\Desktop\Repos\OCRPDF\OCRPDF\obj\Debug\OCRPDF.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\Repos\OCRPDF\OCRPDF\obj\Debug\OCRPDF.exe
+C:\Users\Daniel\Desktop\Repos\OCRPDF\OCRPDF\obj\Debug\OCRPDF.pdb
+C:\Users\Daniel\Desktop\Repos\OCRPDF\OCRPDF\obj\Debug\OCRPDF.frmMain.resources

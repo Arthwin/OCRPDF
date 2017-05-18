@@ -1,0 +1,1 @@
+http://stackoverflow.com/questions/5167362/how-to-do-free-hand-image-cropping-in-c-sharp-window-application
